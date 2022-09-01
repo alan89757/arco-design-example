@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@arco-design/web-vue": "latest",
+    "ant-design-vue": "^2.2.2",
     "dayjs": "^1.0",
     "vue": "^3.2.0"
   },
